@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dm4rt
 - 👀 I’m interested in creating video games
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on video game related projects
 - 📫 How to reach me -> via discord
 
